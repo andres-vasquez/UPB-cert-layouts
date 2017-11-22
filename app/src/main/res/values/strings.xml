@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CertUpb1</string>
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Not a member. Sign Up!</string>
+</resources>
